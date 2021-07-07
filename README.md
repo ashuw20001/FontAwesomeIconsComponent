@@ -43,7 +43,7 @@ Its flexible in terms of coloring, sizing & stacking on top of other background 
       <img width="1651" alt="Screen Shot 2021-07-07 at 11 18 23 AM" src="https://user-images.githubusercontent.com/5238143/124717592-54358400-df16-11eb-81c7-1f83eb05bfe4.png">
       </td>
     <td>
-      <img width="1663" alt="Screen Shot 2021-07-07 at 11 17 30 AM" src="https://user-images.githubusercontent.com/5238143/124716459-2734a180-df15-11eb-9e3a-5ec040c7d619.png">
+      <img width="1663" alt="Screen Shot 2021-07-07 at 11 17 30 AM" src="https://user-images.githubusercontent.com/5238143/124738409-f27f1500-df29-11eb-822d-dda2866eec21.png">
       </td>
     <td>
       <img width="1663" alt="Screen Shot 2021-07-07 at 11 17 30 AM" src="https://user-images.githubusercontent.com/5238143/124716422-1e43d000-df15-11eb-8218-35fd79d27aeb.png">
