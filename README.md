@@ -63,7 +63,7 @@ Steps :<br>
    <img width="415" alt="konyvisualizer" src="https://user-images.githubusercontent.com/5238143/124721601-4eda3880-df1a-11eb-9320-5b86a064f313.png">
 
 <h3> Note : Select the proper font family depends on icon type you choose it from Above URL's</h3>
-<h4>If you set the solid icon, so make sure to select the font-family FontAwesome5_Solid and similary way for brands and regular.</h4>
+<h4>If you set the solid icon, so make sure to select the font-family FontAwesome5_Solid and similar way for brands and regular.</h4>
     1.FontAwesome5_Brands.<br>
     2.FontAwesome5_Regular.<br>
     3.FontAwesome5_Solid.<br>
